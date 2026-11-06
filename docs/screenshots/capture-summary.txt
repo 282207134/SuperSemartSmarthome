@@ -1,0 +1,1 @@
+Latest run: 14 captures. Total: 78 Flutter screenshots on existing Android emulator.

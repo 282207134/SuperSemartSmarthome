@@ -1,0 +1,5042 @@
+{
+  "document": "SuperSemart - Smarthome Apps UI Kits",
+  "pages": [
+    "Thumbnail",
+    "Style Guide",
+    "UI Design"
+  ],
+  "frames": [
+    {
+      "id": "63:1590",
+      "name": "Splash Screen",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11994,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 1,
+      "file": "01_splash_screen.png"
+    },
+    {
+      "id": "63:1805",
+      "name": "Onboarding",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12584,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "02_onboarding.png"
+    },
+    {
+      "id": "42:488",
+      "name": "Sign Up",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13174,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "03_sign_up.png"
+    },
+    {
+      "id": "42:578",
+      "name": "Sign In",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13764,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "04_sign_in.png"
+    },
+    {
+      "id": "55:1513",
+      "name": "Forgot Password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14354,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "file": "05_forgot_password.png"
+    },
+    {
+      "id": "55:1596",
+      "name": "Reset Password",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14944,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "file": "06_reset_password.png"
+    },
+    {
+      "id": "42:674",
+      "name": "Verify Code",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15534,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "07_verify_code.png"
+    },
+    {
+      "id": "42:784",
+      "name": "Pop Up",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16124,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "08_pop_up.png"
+    },
+    {
+      "id": "61:1462",
+      "name": "Add House",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16714,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "09_add_house.png"
+    },
+    {
+      "id": "62:1565",
+      "name": "Add Room",
+      "type": "FRAME",
+      "bounds": {
+        "x": 17304,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "10_add_room.png"
+    },
+    {
+      "id": "72:1206",
+      "name": "Add Another Room",
+      "type": "FRAME",
+      "bounds": {
+        "x": 17894,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "file": "11_add_another_room.png"
+    },
+    {
+      "id": "72:1302",
+      "name": "Edit Room",
+      "type": "FRAME",
+      "bounds": {
+        "x": 18484,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 9,
+      "file": "12_edit_room.png"
+    },
+    {
+      "id": "63:1402",
+      "name": "Add Room",
+      "type": "FRAME",
+      "bounds": {
+        "x": 19074,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "13_add_room.png"
+    },
+    {
+      "id": "63:1481",
+      "name": "Add Device (Search)",
+      "type": "FRAME",
+      "bounds": {
+        "x": 19664,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "14_add_device_search.png"
+    },
+    {
+      "id": "63:1518",
+      "name": "Device Found",
+      "type": "FRAME",
+      "bounds": {
+        "x": 20254,
+        "y": -832,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "15_device_found.png"
+    },
+    {
+      "id": "8:196",
+      "name": "Home",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11994,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 8,
+      "file": "16_home.png"
+    },
+    {
+      "id": "12:374",
+      "name": "Detail Lamp",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12584,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "17_detail_lamp.png"
+    },
+    {
+      "id": "45:560",
+      "name": "Detail Lamp",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13174,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "18_detail_lamp.png"
+    },
+    {
+      "id": "51:750",
+      "name": "Detail Air Conditioner",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13764,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "19_detail_air_conditioner.png"
+    },
+    {
+      "id": "30:77",
+      "name": "Energy Saving",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14354,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "20_energy_saving.png"
+    },
+    {
+      "id": "44:345",
+      "name": "Choose Room",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14944,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "21_choose_room.png"
+    },
+    {
+      "id": "37:94",
+      "name": "Add Device (Search)",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15534,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "22_add_device_search.png"
+    },
+    {
+      "id": "38:1605",
+      "name": "Device Found",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16124,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 6,
+      "file": "23_device_found.png"
+    },
+    {
+      "id": "75:1384",
+      "name": "Device Added",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16714,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 8,
+      "file": "24_device_added.png"
+    },
+    {
+      "id": "52:989",
+      "name": "Notification (General)",
+      "type": "FRAME",
+      "bounds": {
+        "x": 17304,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "file": "25_notification_general.png"
+    },
+    {
+      "id": "53:832",
+      "name": "Notification (General)",
+      "type": "FRAME",
+      "bounds": {
+        "x": 17894,
+        "y": 612,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "file": "26_notification_general.png"
+    },
+    {
+      "id": "97:4054",
+      "name": "Chatbot",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11994,
+        "y": 2056,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "27_chatbot.png"
+    },
+    {
+      "id": "93:2232",
+      "name": "Chat",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12584,
+        "y": 2056,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "28_chat.png"
+    },
+    {
+      "id": "95:2793",
+      "name": "Chat",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13174,
+        "y": 2056,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "29_chat.png"
+    },
+    {
+      "id": "93:1258",
+      "name": "Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": 11994,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "30_profile.png"
+    },
+    {
+      "id": "93:1363",
+      "name": "Switch Account",
+      "type": "FRAME",
+      "bounds": {
+        "x": 12584,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 7,
+      "file": "31_switch_account.png"
+    },
+    {
+      "id": "93:1482",
+      "name": "Edit Profile",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13174,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "32_edit_profile.png"
+    },
+    {
+      "id": "93:1508",
+      "name": "Settings",
+      "type": "FRAME",
+      "bounds": {
+        "x": 13764,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "file": "33_settings.png"
+    },
+    {
+      "id": "93:1527",
+      "name": "Log Out",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14354,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 5,
+      "file": "34_log_out.png"
+    },
+    {
+      "id": "93:1555",
+      "name": "Notification",
+      "type": "FRAME",
+      "bounds": {
+        "x": 14944,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 2,
+      "file": "35_notification.png"
+    },
+    {
+      "id": "93:1573",
+      "name": "Members",
+      "type": "FRAME",
+      "bounds": {
+        "x": 15534,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "file": "36_members.png"
+    },
+    {
+      "id": "93:1639",
+      "name": "Language",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16124,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "file": "37_language.png"
+    },
+    {
+      "id": "93:1782",
+      "name": "Help Center",
+      "type": "FRAME",
+      "bounds": {
+        "x": 16714,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 4,
+      "file": "38_help_center.png"
+    },
+    {
+      "id": "93:1827",
+      "name": "About Us",
+      "type": "FRAME",
+      "bounds": {
+        "x": 17304,
+        "y": 3500,
+        "width": 390,
+        "height": 844
+      },
+      "parentId": "0:1",
+      "childCount": 3,
+      "file": "39_about_us.png"
+    }
+  ],
+  "texts": [
+    {
+      "frame": "63:1590",
+      "name": "Splash Screen",
+      "text": [
+        {
+          "id": "63:1798",
+          "text": "SuperSemart",
+          "bounds": {
+            "x": 12130.5,
+            "y": -357,
+            "width": 117,
+            "height": 26
+          }
+        }
+      ]
+    },
+    {
+      "frame": "63:1805",
+      "name": "Onboarding",
+      "text": [
+        {
+          "id": "65:1052",
+          "text": "Welcome",
+          "bounds": {
+            "x": 12616,
+            "y": -565,
+            "width": 188,
+            "height": 32
+          }
+        },
+        {
+          "id": "65:1053",
+          "text": "Your key to a smarter and more convenient home!",
+          "bounds": {
+            "x": 12616,
+            "y": -517,
+            "width": 269,
+            "height": 64
+          }
+        },
+        {
+          "id": "I66:1067;38:1197",
+          "text": "Get Started",
+          "bounds": {
+            "x": 12734,
+            "y": -68,
+            "width": 91,
+            "height": 24
+          }
+        },
+        {
+          "id": "66:1071",
+          "text": "SuperSemart",
+          "bounds": {
+            "x": 12616,
+            "y": -784,
+            "width": 129,
+            "height": 28
+          }
+        }
+      ]
+    },
+    {
+      "frame": "42:488",
+      "name": "Sign Up",
+      "text": [
+        {
+          "id": "I42:528;38:1189",
+          "text": "Create Account",
+          "bounds": {
+            "x": 13315.5,
+            "y": -210,
+            "width": 107,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:529;41:632",
+          "text": "Already have an account? Log In",
+          "bounds": {
+            "x": 13265,
+            "y": -148,
+            "width": 208,
+            "height": 22
+          }
+        },
+        {
+          "id": "42:531",
+          "text": "Create account",
+          "bounds": {
+            "x": 13292.5,
+            "y": -756,
+            "width": 153,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:532",
+          "text": "We happy to see tou again. Sign Up to your account",
+          "bounds": {
+            "x": 13245,
+            "y": -716,
+            "width": 248,
+            "height": 44
+          }
+        },
+        {
+          "id": "42:533",
+          "text": "By signing up you agree to our Terms and Conditions of Use",
+          "bounds": {
+            "x": 13237,
+            "y": -88,
+            "width": 265,
+            "height": 44
+          }
+        },
+        {
+          "id": "I42:535;41:1184;38:688",
+          "text": "Full Name",
+          "bounds": {
+            "x": 13198,
+            "y": -514,
+            "width": 57,
+            "height": 14
+          }
+        },
+        {
+          "id": "I42:535;41:1186;38:707",
+          "text": "Your name...",
+          "bounds": {
+            "x": 13214,
+            "y": -478,
+            "width": 84,
+            "height": 24
+          }
+        },
+        {
+          "id": "I42:536;41:1184;38:688",
+          "text": "Email",
+          "bounds": {
+            "x": 13198,
+            "y": -424,
+            "width": 32,
+            "height": 14
+          }
+        },
+        {
+          "id": "I42:536;41:1186;38:707",
+          "text": "Email...",
+          "bounds": {
+            "x": 13214,
+            "y": -388,
+            "width": 50,
+            "height": 24
+          }
+        },
+        {
+          "id": "I54:1138;41:1188;38:688",
+          "text": "Password",
+          "bounds": {
+            "x": 13198,
+            "y": -334,
+            "width": 57,
+            "height": 14
+          }
+        },
+        {
+          "id": "I54:1138;41:1190;38:707",
+          "text": "Password...",
+          "bounds": {
+            "x": 13214,
+            "y": -298,
+            "width": 80,
+            "height": 24
+          }
+        },
+        {
+          "id": "42:539",
+          "text": "Or Sign Up with",
+          "bounds": {
+            "x": 13313,
+            "y": -560,
+            "width": 103,
+            "height": 22
+          }
+        },
+        {
+          "id": "I54:1114;41:660",
+          "text": "Google",
+          "bounds": {
+            "x": 13271.5,
+            "y": -623,
+            "width": 52,
+            "height": 22
+          }
+        },
+        {
+          "id": "I54:1115;41:668",
+          "text": " Apple",
+          "bounds": {
+            "x": 13455,
+            "y": -623,
+            "width": 43,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "42:578",
+      "name": "Sign In",
+      "text": [
+        {
+          "id": "42:631",
+          "text": "Hi, Welcome Back! 👋",
+          "bounds": {
+            "x": 13854.5,
+            "y": -756,
+            "width": 209,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:632",
+          "text": "We happy to see tou again. Sign In to your account",
+          "bounds": {
+            "x": 13835,
+            "y": -716,
+            "width": 248,
+            "height": 44
+          }
+        },
+        {
+          "id": "I42:634;41:660",
+          "text": "Google",
+          "bounds": {
+            "x": 13861.5,
+            "y": -623,
+            "width": 52,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:635;41:668",
+          "text": " Apple",
+          "bounds": {
+            "x": 14045,
+            "y": -623,
+            "width": 43,
+            "height": 22
+          }
+        },
+        {
+          "id": "42:638",
+          "text": "Or continue with",
+          "bounds": {
+            "x": 13903,
+            "y": -560,
+            "width": 112,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:641;38:1189",
+          "text": "Log In",
+          "bounds": {
+            "x": 13938.5,
+            "y": -210,
+            "width": 41,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:642;38:1195",
+          "text": "Don’t have an account? Sign Up",
+          "bounds": {
+            "x": 13853,
+            "y": -148,
+            "width": 212,
+            "height": 22
+          }
+        },
+        {
+          "id": "I54:1074;38:1187",
+          "text": "Forgot Password?",
+          "bounds": {
+            "x": 13907,
+            "y": -330,
+            "width": 105,
+            "height": 16
+          }
+        },
+        {
+          "id": "42:643",
+          "text": "By signing up you agree to our Terms and Conditions of Use",
+          "bounds": {
+            "x": 13827,
+            "y": -88,
+            "width": 265,
+            "height": 44
+          }
+        },
+        {
+          "id": "I42:644;41:1184;38:688",
+          "text": "Email",
+          "bounds": {
+            "x": 13788,
+            "y": -514,
+            "width": 32,
+            "height": 14
+          }
+        },
+        {
+          "id": "I42:644;41:1186;38:707",
+          "text": "Email...",
+          "bounds": {
+            "x": 13804,
+            "y": -478,
+            "width": 50,
+            "height": 24
+          }
+        },
+        {
+          "id": "I54:1088;41:1188;38:688",
+          "text": "Password",
+          "bounds": {
+            "x": 13788,
+            "y": -424,
+            "width": 57,
+            "height": 14
+          }
+        },
+        {
+          "id": "I54:1088;41:1190;38:707",
+          "text": "Password...",
+          "bounds": {
+            "x": 13804,
+            "y": -388,
+            "width": 80,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "frame": "55:1513",
+      "name": "Forgot Password",
+      "text": [
+        {
+          "id": "55:1515",
+          "text": "Forgot Password",
+          "bounds": {
+            "x": 14466,
+            "y": -720,
+            "width": 167,
+            "height": 32
+          }
+        },
+        {
+          "id": "55:1516",
+          "text": "Enter your email, we will send a verification code to email",
+          "bounds": {
+            "x": 14407,
+            "y": -680,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "55:1589",
+          "text": "Email",
+          "bounds": {
+            "x": 14458,
+            "y": -585,
+            "width": 32,
+            "height": 18
+          }
+        },
+        {
+          "id": "55:1590",
+          "text": "jakobbergson@gmail.com",
+          "bounds": {
+            "x": 14458,
+            "y": -563,
+            "width": 227,
+            "height": 20
+          }
+        },
+        {
+          "id": "I55:1666;38:1189",
+          "text": "Send",
+          "bounds": {
+            "x": 14531,
+            "y": -62,
+            "width": 36,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "55:1596",
+      "name": "Reset Password",
+      "text": [
+        {
+          "id": "55:1598",
+          "text": "Reset Password",
+          "bounds": {
+            "x": 15061,
+            "y": -720,
+            "width": 157,
+            "height": 32
+          }
+        },
+        {
+          "id": "55:1599",
+          "text": "Your password must be at least 8 characters long and include a combination of letters, numbers",
+          "bounds": {
+            "x": 14994,
+            "y": -680,
+            "width": 291,
+            "height": 66
+          }
+        },
+        {
+          "id": "I55:1683;41:1188;38:688",
+          "text": "New Password",
+          "bounds": {
+            "x": 14968,
+            "y": -582,
+            "width": 86,
+            "height": 14
+          }
+        },
+        {
+          "id": "I55:1683;41:1190;38:707",
+          "text": "Password...",
+          "bounds": {
+            "x": 14984,
+            "y": -546,
+            "width": 80,
+            "height": 24
+          }
+        },
+        {
+          "id": "I55:1704;41:1188;38:688",
+          "text": "Confirm New Password",
+          "bounds": {
+            "x": 14968,
+            "y": -492,
+            "width": 134,
+            "height": 14
+          }
+        },
+        {
+          "id": "I55:1704;41:1190;38:707",
+          "text": "Password...",
+          "bounds": {
+            "x": 14984,
+            "y": -456,
+            "width": 80,
+            "height": 24
+          }
+        },
+        {
+          "id": "I55:1720;38:1189",
+          "text": "Submit",
+          "bounds": {
+            "x": 15114.5,
+            "y": -62,
+            "width": 49,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "42:674",
+      "name": "Verify Code",
+      "text": [
+        {
+          "id": "42:720",
+          "text": "Verify Code",
+          "bounds": {
+            "x": 15671,
+            "y": -720,
+            "width": 117,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:721",
+          "text": "Please enter the code we just sent to email phillipdorwart@email.com",
+          "bounds": {
+            "x": 15587,
+            "y": -680,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "I42:722;38:1195",
+          "text": "Resend code in 00:48",
+          "bounds": {
+            "x": 15647,
+            "y": -379,
+            "width": 149,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:724;41:1194",
+          "text": "•",
+          "bounds": {
+            "x": 15589,
+            "y": -584,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "I42:725;41:1194",
+          "text": "•",
+          "bounds": {
+            "x": 15669,
+            "y": -584,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "I42:726;41:1194",
+          "text": "•",
+          "bounds": {
+            "x": 15749,
+            "y": -584,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "I42:727;41:1230",
+          "text": "4",
+          "bounds": {
+            "x": 15829,
+            "y": -584,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:744",
+          "text": "0",
+          "bounds": {
+            "x": 15721,
+            "y": -80,
+            "width": 15,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:747",
+          "text": ".",
+          "bounds": {
+            "x": 15600,
+            "y": -80,
+            "width": 6,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:750",
+          "text": "9",
+          "bounds": {
+            "x": 15845,
+            "y": -148,
+            "width": 16,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:753",
+          "text": "8",
+          "bounds": {
+            "x": 15722,
+            "y": -148,
+            "width": 13,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:756",
+          "text": "7",
+          "bounds": {
+            "x": 15596,
+            "y": -148,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:759",
+          "text": "6",
+          "bounds": {
+            "x": 15846,
+            "y": -216,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:762",
+          "text": "5",
+          "bounds": {
+            "x": 15721,
+            "y": -216,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:765",
+          "text": "4",
+          "bounds": {
+            "x": 15596,
+            "y": -216,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:768",
+          "text": "3",
+          "bounds": {
+            "x": 15847,
+            "y": -284,
+            "width": 13,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:771",
+          "text": "2",
+          "bounds": {
+            "x": 15721,
+            "y": -284,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:774",
+          "text": "1",
+          "bounds": {
+            "x": 15599,
+            "y": -284,
+            "width": 8,
+            "height": 32
+          }
+        }
+      ]
+    },
+    {
+      "frame": "42:784",
+      "name": "Pop Up",
+      "text": [
+        {
+          "id": "42:786",
+          "text": "Verify Code",
+          "bounds": {
+            "x": 16261,
+            "y": -756,
+            "width": 117,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:787",
+          "text": "Please enter the code we just sent to email phillipdorwart@email.com",
+          "bounds": {
+            "x": 16177,
+            "y": -716,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "I42:788;38:1195",
+          "text": "Resend code in 00:48",
+          "bounds": {
+            "x": 16237,
+            "y": -379,
+            "width": 149,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:790;41:1194",
+          "text": "•",
+          "bounds": {
+            "x": 16179,
+            "y": -620,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "I42:791;41:1194",
+          "text": "•",
+          "bounds": {
+            "x": 16259,
+            "y": -620,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "I42:792;41:1194",
+          "text": "•",
+          "bounds": {
+            "x": 16339,
+            "y": -620,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "I42:793;41:1230",
+          "text": "4",
+          "bounds": {
+            "x": 16419,
+            "y": -620,
+            "width": 40,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:810",
+          "text": "0",
+          "bounds": {
+            "x": 16311,
+            "y": -80,
+            "width": 15,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:813",
+          "text": ".",
+          "bounds": {
+            "x": 16190,
+            "y": -80,
+            "width": 6,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:816",
+          "text": "9",
+          "bounds": {
+            "x": 16435,
+            "y": -148,
+            "width": 16,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:819",
+          "text": "8",
+          "bounds": {
+            "x": 16312,
+            "y": -148,
+            "width": 13,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:822",
+          "text": "7",
+          "bounds": {
+            "x": 16186,
+            "y": -148,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:825",
+          "text": "6",
+          "bounds": {
+            "x": 16436,
+            "y": -216,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:828",
+          "text": "5",
+          "bounds": {
+            "x": 16311,
+            "y": -216,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:831",
+          "text": "4",
+          "bounds": {
+            "x": 16186,
+            "y": -216,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:834",
+          "text": "3",
+          "bounds": {
+            "x": 16437,
+            "y": -284,
+            "width": 13,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:837",
+          "text": "2",
+          "bounds": {
+            "x": 16311,
+            "y": -284,
+            "width": 14,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:840",
+          "text": "1",
+          "bounds": {
+            "x": 16189,
+            "y": -284,
+            "width": 8,
+            "height": 32
+          }
+        },
+        {
+          "id": "42:853",
+          "text": "I agree to the Terms of Service and Conditions of Use including consent to electronic communications and I affirm that the information provided is my own.",
+          "bounds": {
+            "x": 16196,
+            "y": -529,
+            "width": 247,
+            "height": 110
+          }
+        },
+        {
+          "id": "I42:855;38:1189",
+          "text": "Agree and Continue",
+          "bounds": {
+            "x": 16252.5,
+            "y": -383,
+            "width": 134,
+            "height": 22
+          }
+        },
+        {
+          "id": "I42:856;38:1195",
+          "text": "Disgree",
+          "bounds": {
+            "x": 16293,
+            "y": -325,
+            "width": 53,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "61:1462",
+      "name": "Add House",
+      "text": [
+        {
+          "id": "I61:1470;48:2391",
+          "text": "Upload Cover",
+          "bounds": {
+            "x": 16864,
+            "y": -670,
+            "width": 76,
+            "height": 18
+          }
+        },
+        {
+          "id": "I61:1484;41:1216;38:688",
+          "text": "Home Name",
+          "bounds": {
+            "x": 16738,
+            "y": -592,
+            "width": 69,
+            "height": 18
+          }
+        },
+        {
+          "id": "I61:1484;41:1218;38:707",
+          "text": "Jakob Home",
+          "bounds": {
+            "x": 16754,
+            "y": -552,
+            "width": 84,
+            "height": 24
+          }
+        },
+        {
+          "id": "I61:1485;41:1216;38:688",
+          "text": "Owner",
+          "bounds": {
+            "x": 16738,
+            "y": -494,
+            "width": 37,
+            "height": 18
+          }
+        },
+        {
+          "id": "I61:1485;41:1218;38:707",
+          "text": "Jakob Bergson",
+          "bounds": {
+            "x": 16754,
+            "y": -454,
+            "width": 100,
+            "height": 24
+          }
+        },
+        {
+          "id": "I61:1521;41:1216;38:688",
+          "text": "Country",
+          "bounds": {
+            "x": 16738,
+            "y": -396,
+            "width": 45,
+            "height": 18
+          }
+        },
+        {
+          "id": "I61:1521;41:1218;38:707",
+          "text": "United States",
+          "bounds": {
+            "x": 16754,
+            "y": -356,
+            "width": 92,
+            "height": 24
+          }
+        },
+        {
+          "id": "I61:1528;41:1216;38:688",
+          "text": "City",
+          "bounds": {
+            "x": 16917,
+            "y": -396,
+            "width": 22,
+            "height": 18
+          }
+        },
+        {
+          "id": "I61:1528;41:1218;38:707",
+          "text": "San Diego",
+          "bounds": {
+            "x": 16933,
+            "y": -356,
+            "width": 131,
+            "height": 24
+          }
+        },
+        {
+          "id": "I61:1487;38:1189",
+          "text": "Next",
+          "bounds": {
+            "x": 16893,
+            "y": -62,
+            "width": 32,
+            "height": 22
+          }
+        },
+        {
+          "id": "62:1539",
+          "text": "Add House",
+          "bounds": {
+            "x": 16845.5,
+            "y": -720,
+            "width": 128,
+            "height": 32
+          }
+        },
+        {
+          "id": "62:1538",
+          "text": "Felis duis at pulvinar diam faucibus amet adipiscing",
+          "bounds": {
+            "x": 16767,
+            "y": -680,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "69:1102",
+          "text": "1/5",
+          "bounds": {
+            "x": 17040,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "frame": "62:1565",
+      "name": "Add Room",
+      "text": [
+        {
+          "id": "I62:1578;38:1189",
+          "text": "Next",
+          "bounds": {
+            "x": 17483,
+            "y": -62,
+            "width": 32,
+            "height": 22
+          }
+        },
+        {
+          "id": "62:1580",
+          "text": "Add Room",
+          "bounds": {
+            "x": 17438.5,
+            "y": -720,
+            "width": 122,
+            "height": 32
+          }
+        },
+        {
+          "id": "62:1581",
+          "text": "Felis duis at pulvinar diam faucibus amet adipiscing",
+          "bounds": {
+            "x": 17357,
+            "y": -680,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "69:1118",
+          "text": "2/5",
+          "bounds": {
+            "x": 17630,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "id": "72:1155",
+          "text": "Living Room",
+          "bounds": {
+            "x": 17370,
+            "y": -514,
+            "width": 84,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1156",
+          "text": "6 Devices",
+          "bounds": {
+            "x": 17384,
+            "y": -486,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1162",
+          "text": "Add another\nroom",
+          "bounds": {
+            "x": 17551,
+            "y": -330,
+            "width": 72,
+            "height": 40
+          }
+        },
+        {
+          "id": "72:1167",
+          "text": "Bedroom",
+          "bounds": {
+            "x": 17554,
+            "y": -514,
+            "width": 65,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1168",
+          "text": "5 Devices",
+          "bounds": {
+            "x": 17558.5,
+            "y": -486,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1173",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 17385.5,
+            "y": -334,
+            "width": 53,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1174",
+          "text": "4 Devices",
+          "bounds": {
+            "x": 17384,
+            "y": -306,
+            "width": 56,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "frame": "72:1206",
+      "name": "Add Another Room",
+      "text": [
+        {
+          "id": "I72:1207;38:1189",
+          "text": "Next",
+          "bounds": {
+            "x": 18065.5,
+            "y": -62,
+            "width": 32,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1209",
+          "text": "Add Room",
+          "bounds": {
+            "x": 18028.5,
+            "y": -720,
+            "width": 122,
+            "height": 32
+          }
+        },
+        {
+          "id": "72:1210",
+          "text": "Felis duis at pulvinar diam faucibus amet adipiscing",
+          "bounds": {
+            "x": 17947,
+            "y": -680,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "72:1224",
+          "text": "2/5",
+          "bounds": {
+            "x": 18220,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "id": "72:1229",
+          "text": "Living Room",
+          "bounds": {
+            "x": 17960,
+            "y": -514,
+            "width": 84,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1230",
+          "text": "6 Devices",
+          "bounds": {
+            "x": 17974,
+            "y": -486,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1236",
+          "text": "Add another\nroom",
+          "bounds": {
+            "x": 18141,
+            "y": -330,
+            "width": 72,
+            "height": 40
+          }
+        },
+        {
+          "id": "72:1241",
+          "text": "Bedroom",
+          "bounds": {
+            "x": 18144,
+            "y": -514,
+            "width": 65,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1242",
+          "text": "5 Devices",
+          "bounds": {
+            "x": 18148.5,
+            "y": -486,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1247",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 17975.5,
+            "y": -334,
+            "width": 53,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1248",
+          "text": "4 Devices",
+          "bounds": {
+            "x": 17974,
+            "y": -306,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1292",
+          "text": "Add Another Room",
+          "bounds": {
+            "x": 17998,
+            "y": -244,
+            "width": 148,
+            "height": 24
+          }
+        },
+        {
+          "id": "I72:1293;41:1216;38:688",
+          "text": "Room Name",
+          "bounds": {
+            "x": 17942,
+            "y": -184,
+            "width": 68,
+            "height": 18
+          }
+        },
+        {
+          "id": "I72:1293;41:1218;38:707",
+          "text": "Relax Room",
+          "bounds": {
+            "x": 17958,
+            "y": -144,
+            "width": 79,
+            "height": 24
+          }
+        },
+        {
+          "id": "I72:1294;38:1189",
+          "text": "Create Room",
+          "bounds": {
+            "x": 18044,
+            "y": -70,
+            "width": 90,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "72:1302",
+      "name": "Edit Room",
+      "text": [
+        {
+          "id": "I72:1303;38:1189",
+          "text": "Next",
+          "bounds": {
+            "x": 18655.5,
+            "y": -62,
+            "width": 32,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1305",
+          "text": "Add Room",
+          "bounds": {
+            "x": 18618.5,
+            "y": -720,
+            "width": 122,
+            "height": 32
+          }
+        },
+        {
+          "id": "72:1306",
+          "text": "Felis duis at pulvinar diam faucibus amet adipiscing",
+          "bounds": {
+            "x": 18537,
+            "y": -680,
+            "width": 285,
+            "height": 44
+          }
+        },
+        {
+          "id": "72:1320",
+          "text": "2/5",
+          "bounds": {
+            "x": 18810,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        },
+        {
+          "id": "72:1325",
+          "text": "Living Room",
+          "bounds": {
+            "x": 18550,
+            "y": -514,
+            "width": 84,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1326",
+          "text": "6 Devices",
+          "bounds": {
+            "x": 18564,
+            "y": -486,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1332",
+          "text": "Add another\nroom",
+          "bounds": {
+            "x": 18731,
+            "y": -330,
+            "width": 72,
+            "height": 40
+          }
+        },
+        {
+          "id": "72:1337",
+          "text": "Bedroom",
+          "bounds": {
+            "x": 18734,
+            "y": -514,
+            "width": 65,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1338",
+          "text": "5 Devices",
+          "bounds": {
+            "x": 18738.5,
+            "y": -486,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1343",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 18565.5,
+            "y": -334,
+            "width": 53,
+            "height": 22
+          }
+        },
+        {
+          "id": "72:1344",
+          "text": "4 Devices",
+          "bounds": {
+            "x": 18564,
+            "y": -306,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "72:1430",
+          "text": "Edit Room",
+          "bounds": {
+            "x": 18588,
+            "y": -244,
+            "width": 80,
+            "height": 24
+          }
+        },
+        {
+          "id": "I72:1431;41:1216;38:688",
+          "text": "Room Name",
+          "bounds": {
+            "x": 18532,
+            "y": -184,
+            "width": 68,
+            "height": 18
+          }
+        },
+        {
+          "id": "I72:1431;41:1218;38:707",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 18548,
+            "y": -144,
+            "width": 52,
+            "height": 24
+          }
+        },
+        {
+          "id": "I72:1432;38:1189",
+          "text": "Update",
+          "bounds": {
+            "x": 18653.5,
+            "y": -70,
+            "width": 51,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "63:1402",
+      "name": "Add Room",
+      "text": [
+        {
+          "id": "63:1410",
+          "text": "Set Up Your Devices!",
+          "bounds": {
+            "x": 19168.5,
+            "y": -430,
+            "width": 201,
+            "height": 32
+          }
+        },
+        {
+          "id": "63:1411",
+          "text": "Connect your smart home devices to the app and start automating your home.",
+          "bounds": {
+            "x": 19114,
+            "y": -390,
+            "width": 310,
+            "height": 44
+          }
+        },
+        {
+          "id": "I63:1479;38:1191",
+          "text": "Add Device",
+          "bounds": {
+            "x": 19230.5,
+            "y": -302,
+            "width": 78,
+            "height": 22
+          }
+        },
+        {
+          "id": "63:1478",
+          "text": "Living Room",
+          "bounds": {
+            "x": 19199,
+            "y": -720,
+            "width": 141,
+            "height": 32
+          }
+        },
+        {
+          "id": "69:1132",
+          "text": "3/5",
+          "bounds": {
+            "x": 19400,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "frame": "63:1481",
+      "name": "Add Device (Search)",
+      "text": [
+        {
+          "id": "63:1488",
+          "text": "Connecting Device",
+          "bounds": {
+            "x": 19747,
+            "y": -720,
+            "width": 224,
+            "height": 32
+          }
+        },
+        {
+          "id": "63:1489",
+          "text": "Press power button 5 Seccond",
+          "bounds": {
+            "x": 19770.5,
+            "y": -679,
+            "width": 177,
+            "height": 22
+          }
+        },
+        {
+          "id": "63:1493",
+          "text": "Turn on Wi-Fi for connect",
+          "bounds": {
+            "x": 19802,
+            "y": -624,
+            "width": 145,
+            "height": 22
+          }
+        },
+        {
+          "id": "63:1500",
+          "text": "You need to start working Wi-Fi connection on your mobile devices.",
+          "bounds": {
+            "x": 19734,
+            "y": -108,
+            "width": 251,
+            "height": 44
+          }
+        },
+        {
+          "id": "I63:1501;38:1187",
+          "text": "Learn More",
+          "bounds": {
+            "x": 19827.5,
+            "y": -48,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "I63:1502;38:1193",
+          "text": "Connect",
+          "bounds": {
+            "x": 19830.5,
+            "y": -199,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "id": "69:1146",
+          "text": "4/5",
+          "bounds": {
+            "x": 19990,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "frame": "63:1518",
+      "name": "Device Found",
+      "text": [
+        {
+          "id": "63:1525",
+          "text": "Connecting Device",
+          "bounds": {
+            "x": 20337,
+            "y": -720,
+            "width": 224,
+            "height": 32
+          }
+        },
+        {
+          "id": "63:1526",
+          "text": "Device found...",
+          "bounds": {
+            "x": 20405.5,
+            "y": -679,
+            "width": 87,
+            "height": 22
+          }
+        },
+        {
+          "id": "63:1530",
+          "text": "Turn on Wi-Fi for connect",
+          "bounds": {
+            "x": 20391,
+            "y": -624,
+            "width": 147,
+            "height": 22
+          }
+        },
+        {
+          "id": "63:1535",
+          "text": "Samsung AR05KRFLAWKN",
+          "bounds": {
+            "x": 20382,
+            "y": -320,
+            "width": 155,
+            "height": 20
+          }
+        },
+        {
+          "id": "63:1537",
+          "text": "You need to start working Wi-Fi connection on your mobile devices.",
+          "bounds": {
+            "x": 20324,
+            "y": -108,
+            "width": 251,
+            "height": 44
+          }
+        },
+        {
+          "id": "I63:1538;38:1187",
+          "text": "Learn More",
+          "bounds": {
+            "x": 20417.5,
+            "y": -48,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "I63:1539;38:1189",
+          "text": "Connect",
+          "bounds": {
+            "x": 20420.5,
+            "y": -199,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "id": "69:1160",
+          "text": "5/5",
+          "bounds": {
+            "x": 20580,
+            "y": -776,
+            "width": 24,
+            "height": 24
+          }
+        }
+      ]
+    },
+    {
+      "frame": "8:196",
+      "name": "Home",
+      "text": [
+        {
+          "id": "12:287",
+          "text": "Living Room (4)",
+          "bounds": {
+            "x": 12042,
+            "y": 946,
+            "width": 90,
+            "height": 18
+          }
+        },
+        {
+          "id": "12:289",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 12192,
+            "y": 946,
+            "width": 45,
+            "height": 18
+          }
+        },
+        {
+          "id": "12:291",
+          "text": "Bedroom",
+          "bounds": {
+            "x": 12297,
+            "y": 946,
+            "width": 56,
+            "height": 18
+          }
+        },
+        {
+          "id": "12:305",
+          "text": "Air Conditioner",
+          "bounds": {
+            "x": 12034,
+            "y": 1262,
+            "width": 104,
+            "height": 24
+          }
+        },
+        {
+          "id": "12:306",
+          "text": "2 Devices",
+          "bounds": {
+            "x": 12034,
+            "y": 1290,
+            "width": 47,
+            "height": 16
+          }
+        },
+        {
+          "id": "40:452",
+          "text": "Wi-Fi",
+          "bounds": {
+            "x": 12066,
+            "y": 1329,
+            "width": 27,
+            "height": 18
+          }
+        },
+        {
+          "id": "40:463",
+          "text": "Speaker",
+          "bounds": {
+            "x": 12209,
+            "y": 1056,
+            "width": 58,
+            "height": 24
+          }
+        },
+        {
+          "id": "40:464",
+          "text": "2 Devices",
+          "bounds": {
+            "x": 12209,
+            "y": 1084,
+            "width": 47,
+            "height": 16
+          }
+        },
+        {
+          "id": "40:475",
+          "text": "Wi-Fi",
+          "bounds": {
+            "x": 12241,
+            "y": 1123,
+            "width": 27,
+            "height": 18
+          }
+        },
+        {
+          "id": "40:494",
+          "text": "Smart TV",
+          "bounds": {
+            "x": 12209,
+            "y": 1228,
+            "width": 62,
+            "height": 24
+          }
+        },
+        {
+          "id": "40:495",
+          "text": "1 Devices",
+          "bounds": {
+            "x": 12209,
+            "y": 1256,
+            "width": 44,
+            "height": 16
+          }
+        },
+        {
+          "id": "40:506",
+          "text": "Wi-Fi",
+          "bounds": {
+            "x": 12241,
+            "y": 1295,
+            "width": 27,
+            "height": 18
+          }
+        },
+        {
+          "id": "76:1319",
+          "text": "Jakarta, Indonesia",
+          "bounds": {
+            "x": 12042,
+            "y": 756,
+            "width": 86,
+            "height": 14
+          }
+        },
+        {
+          "id": "9:198",
+          "text": "Little Rain",
+          "bounds": {
+            "x": 12042,
+            "y": 778,
+            "width": 95,
+            "height": 28
+          }
+        },
+        {
+          "id": "30:42",
+          "text": "Lowering the temp. below 16 ℃ cut cost by $80",
+          "bounds": {
+            "x": 12042,
+            "y": 814,
+            "width": 149,
+            "height": 40
+          }
+        },
+        {
+          "id": "76:1317",
+          "text": "18  C",
+          "bounds": {
+            "x": 12042,
+            "y": 862,
+            "width": 35,
+            "height": 24
+          }
+        },
+        {
+          "id": "41:596",
+          "text": "Wi-Fi",
+          "bounds": {
+            "x": 12066,
+            "y": 1157,
+            "width": 27,
+            "height": 18
+          }
+        },
+        {
+          "id": "12:270",
+          "text": "Smart Lamp",
+          "bounds": {
+            "x": 12034,
+            "y": 1056,
+            "width": 83,
+            "height": 24
+          }
+        },
+        {
+          "id": "12:269",
+          "text": "Bardi smart lamp\nSmart lamp \nSmart lamp",
+          "bounds": {
+            "x": 12034,
+            "y": 1086,
+            "width": 96,
+            "height": 48
+          }
+        },
+        {
+          "id": "76:1381",
+          "text": "Hello, Jakob Bergson ",
+          "bounds": {
+            "x": 12082,
+            "y": 658,
+            "width": 143,
+            "height": 22
+          }
+        },
+        {
+          "id": "76:1382",
+          "text": "12 devices on",
+          "bounds": {
+            "x": 12082,
+            "y": 683,
+            "width": 77,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "frame": "12:374",
+      "name": "Detail Lamp",
+      "text": [
+        {
+          "id": "51:977",
+          "text": "55%",
+          "bounds": {
+            "x": 12745,
+            "y": 979,
+            "width": 71,
+            "height": 40
+          }
+        },
+        {
+          "id": "51:978",
+          "text": "Intensity",
+          "bounds": {
+            "x": 12760,
+            "y": 1023,
+            "width": 41,
+            "height": 16
+          }
+        },
+        {
+          "id": "59:1329",
+          "text": "Mode",
+          "bounds": {
+            "x": 12608,
+            "y": 1140,
+            "width": 46,
+            "height": 28
+          }
+        },
+        {
+          "id": "59:1333",
+          "text": "Warm",
+          "bounds": {
+            "x": 12664.6669921875,
+            "y": 1203,
+            "width": 34,
+            "height": 18
+          }
+        },
+        {
+          "id": "59:1477",
+          "text": "Color",
+          "bounds": {
+            "x": 12766.5,
+            "y": 1203,
+            "width": 33,
+            "height": 18
+          }
+        },
+        {
+          "id": "59:1336",
+          "text": "Romantic",
+          "bounds": {
+            "x": 12870.3330078125,
+            "y": 1203,
+            "width": 56,
+            "height": 18
+          }
+        },
+        {
+          "id": "59:1424",
+          "text": "Schedulle",
+          "bounds": {
+            "x": 12608,
+            "y": 1344,
+            "width": 78,
+            "height": 28
+          }
+        },
+        {
+          "id": "59:1427",
+          "text": "From",
+          "bounds": {
+            "x": 12608,
+            "y": 1399,
+            "width": 30,
+            "height": 18
+          }
+        },
+        {
+          "id": "59:1429",
+          "text": "11:00 AM",
+          "bounds": {
+            "x": 12666,
+            "y": 1397,
+            "width": 55,
+            "height": 22
+          }
+        },
+        {
+          "id": "59:1432",
+          "text": "To",
+          "bounds": {
+            "x": 12791,
+            "y": 1399,
+            "width": 14,
+            "height": 18
+          }
+        },
+        {
+          "id": "59:1434",
+          "text": "19:00 PM",
+          "bounds": {
+            "x": 12833,
+            "y": 1397,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "id": "59:1445",
+          "text": "55%",
+          "bounds": {
+            "x": 12783,
+            "y": 1283,
+            "width": 25,
+            "height": 18
+          }
+        },
+        {
+          "id": "74:1244",
+          "text": "Smart Lamp",
+          "bounds": {
+            "x": 12709.5,
+            "y": 664,
+            "width": 140,
+            "height": 32
+          }
+        },
+        {
+          "id": "74:1246",
+          "text": "Device 1: Ikea NIFORS",
+          "bounds": {
+            "x": 12705,
+            "y": 705,
+            "width": 125,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "45:560",
+      "name": "Detail Lamp",
+      "text": [
+        {
+          "id": "45:598",
+          "text": "Schedulle",
+          "bounds": {
+            "x": 13198,
+            "y": 1344,
+            "width": 78,
+            "height": 28
+          }
+        },
+        {
+          "id": "45:601",
+          "text": "From",
+          "bounds": {
+            "x": 13198,
+            "y": 1399,
+            "width": 30,
+            "height": 18
+          }
+        },
+        {
+          "id": "45:603",
+          "text": "11:00 AM",
+          "bounds": {
+            "x": 13256,
+            "y": 1397,
+            "width": 55,
+            "height": 22
+          }
+        },
+        {
+          "id": "45:606",
+          "text": "To",
+          "bounds": {
+            "x": 13381,
+            "y": 1399,
+            "width": 14,
+            "height": 18
+          }
+        },
+        {
+          "id": "45:608",
+          "text": "19:00 PM",
+          "bounds": {
+            "x": 13423,
+            "y": 1397,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "id": "51:955",
+          "text": "55%",
+          "bounds": {
+            "x": 13335,
+            "y": 979,
+            "width": 71,
+            "height": 40
+          }
+        },
+        {
+          "id": "51:956",
+          "text": "Intensity",
+          "bounds": {
+            "x": 13350,
+            "y": 1023,
+            "width": 41,
+            "height": 16
+          }
+        },
+        {
+          "id": "59:1382",
+          "text": "55%",
+          "bounds": {
+            "x": 13373,
+            "y": 1283,
+            "width": 25,
+            "height": 18
+          }
+        },
+        {
+          "id": "60:1086",
+          "text": "Mode",
+          "bounds": {
+            "x": 13198,
+            "y": 1140,
+            "width": 46,
+            "height": 28
+          }
+        },
+        {
+          "id": "60:1090",
+          "text": "Warm",
+          "bounds": {
+            "x": 13240.6669921875,
+            "y": 1203,
+            "width": 34,
+            "height": 18
+          }
+        },
+        {
+          "id": "60:1092",
+          "text": "Color",
+          "bounds": {
+            "x": 13370,
+            "y": 1203,
+            "width": 33,
+            "height": 18
+          }
+        },
+        {
+          "id": "60:1094",
+          "text": "Romantic",
+          "bounds": {
+            "x": 13460.3330078125,
+            "y": 1203,
+            "width": 56,
+            "height": 18
+          }
+        },
+        {
+          "id": "45:562",
+          "text": "Smart Lamp",
+          "bounds": {
+            "x": 13299.5,
+            "y": 664,
+            "width": 140,
+            "height": 32
+          }
+        },
+        {
+          "id": "74:1229",
+          "text": "Device 1: Ikea NIFORS",
+          "bounds": {
+            "x": 13295,
+            "y": 705,
+            "width": 125,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "51:750",
+      "name": "Detail Air Conditioner",
+      "text": [
+        {
+          "id": "51:820",
+          "text": "24 ℃",
+          "bounds": {
+            "x": 13921,
+            "y": 979,
+            "width": 78,
+            "height": 40
+          }
+        },
+        {
+          "id": "51:821",
+          "text": "Cooler",
+          "bounds": {
+            "x": 13943.5,
+            "y": 1023,
+            "width": 33,
+            "height": 16
+          }
+        },
+        {
+          "id": "51:829",
+          "text": " 10 ℃",
+          "bounds": {
+            "x": 13790,
+            "y": 977,
+            "width": 30,
+            "height": 22
+          }
+        },
+        {
+          "id": "51:830",
+          "text": " 20 ℃",
+          "bounds": {
+            "x": 13943,
+            "y": 824,
+            "width": 33,
+            "height": 22
+          }
+        },
+        {
+          "id": "51:831",
+          "text": " 30 ℃",
+          "bounds": {
+            "x": 14097,
+            "y": 976,
+            "width": 33,
+            "height": 22
+          }
+        },
+        {
+          "id": "56:1021",
+          "text": "Mode",
+          "bounds": {
+            "x": 13788,
+            "y": 1140,
+            "width": 46,
+            "height": 28
+          }
+        },
+        {
+          "id": "56:949",
+          "text": "Cooling",
+          "bounds": {
+            "x": 13836,
+            "y": 1203,
+            "width": 46,
+            "height": 18
+          }
+        },
+        {
+          "id": "51:906",
+          "text": "7 Hourrs",
+          "bounds": {
+            "x": 13811,
+            "y": 1338,
+            "width": 64,
+            "height": 22
+          }
+        },
+        {
+          "id": "58:958",
+          "text": "Timer",
+          "bounds": {
+            "x": 13827,
+            "y": 1366,
+            "width": 32,
+            "height": 22
+          }
+        },
+        {
+          "id": "55:1751",
+          "text": "On",
+          "bounds": {
+            "x": 13935,
+            "y": 1338,
+            "width": 56,
+            "height": 22
+          }
+        },
+        {
+          "id": "58:959",
+          "text": "Scenes",
+          "bounds": {
+            "x": 13941,
+            "y": 1366,
+            "width": 44,
+            "height": 22
+          }
+        },
+        {
+          "id": "55:1762",
+          "text": "Fast",
+          "bounds": {
+            "x": 14051,
+            "y": 1338,
+            "width": 56,
+            "height": 22
+          }
+        },
+        {
+          "id": "58:960",
+          "text": "Swing",
+          "bounds": {
+            "x": 14061,
+            "y": 1366,
+            "width": 36,
+            "height": 22
+          }
+        },
+        {
+          "id": "51:752",
+          "text": "Air Conditioner",
+          "bounds": {
+            "x": 13871,
+            "y": 664,
+            "width": 177,
+            "height": 32
+          }
+        },
+        {
+          "id": "31:57",
+          "text": "Device 1: Samsung AR05KRFLAWKN",
+          "bounds": {
+            "x": 13844,
+            "y": 705,
+            "width": 207,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "30:77",
+      "name": "Energy Saving",
+      "text": [
+        {
+          "id": "30:79",
+          "text": "Energy Saving",
+          "bounds": {
+            "x": 14378,
+            "y": 652,
+            "width": 165,
+            "height": 32
+          }
+        },
+        {
+          "id": "12:212",
+          "text": "This Month",
+          "bounds": {
+            "x": 14432,
+            "y": 760,
+            "width": 51,
+            "height": 18
+          }
+        },
+        {
+          "id": "12:209",
+          "text": "580.012 kWh",
+          "bounds": {
+            "x": 14432,
+            "y": 780,
+            "width": 103,
+            "height": 22
+          }
+        },
+        {
+          "id": "38:262",
+          "text": "Previous Month",
+          "bounds": {
+            "x": 14609,
+            "y": 760,
+            "width": 74,
+            "height": 18
+          }
+        },
+        {
+          "id": "38:264",
+          "text": "980.012 kWh",
+          "bounds": {
+            "x": 14609,
+            "y": 780,
+            "width": 103,
+            "height": 22
+          }
+        },
+        {
+          "id": "37:236",
+          "text": "Devices",
+          "bounds": {
+            "x": 14378,
+            "y": 1080,
+            "width": 63,
+            "height": 28
+          }
+        },
+        {
+          "id": "34:55",
+          "text": "Smart TV",
+          "bounds": {
+            "x": 14394,
+            "y": 1208,
+            "width": 62,
+            "height": 24
+          }
+        },
+        {
+          "id": "34:56",
+          "text": "Consuming 80 kWh",
+          "bounds": {
+            "x": 14394,
+            "y": 1234,
+            "width": 94,
+            "height": 16
+          }
+        },
+        {
+          "id": "34:64",
+          "text": "$46",
+          "bounds": {
+            "x": 14394,
+            "y": 1256,
+            "width": 31,
+            "height": 24
+          }
+        },
+        {
+          "id": "34:67",
+          "text": "3",
+          "bounds": {
+            "x": 14509,
+            "y": 1144,
+            "width": 16,
+            "height": 16
+          }
+        },
+        {
+          "id": "34:72",
+          "text": "Air Conditioner",
+          "bounds": {
+            "x": 14569,
+            "y": 1208,
+            "width": 104,
+            "height": 24
+          }
+        },
+        {
+          "id": "34:73",
+          "text": "Consuming 50 kWh",
+          "bounds": {
+            "x": 14569,
+            "y": 1234,
+            "width": 94,
+            "height": 16
+          }
+        },
+        {
+          "id": "34:74",
+          "text": "$16",
+          "bounds": {
+            "x": 14569,
+            "y": 1256,
+            "width": 27,
+            "height": 24
+          }
+        },
+        {
+          "id": "34:76",
+          "text": "4",
+          "bounds": {
+            "x": 14684,
+            "y": 1144,
+            "width": 16,
+            "height": 16
+          }
+        },
+        {
+          "id": "38:332",
+          "text": "1 Dec",
+          "bounds": {
+            "x": 14378,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:333",
+          "text": "2 Dec",
+          "bounds": {
+            "x": 14434,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:334",
+          "text": "3 Dec",
+          "bounds": {
+            "x": 14490,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:335",
+          "text": "4 Dec",
+          "bounds": {
+            "x": 14546,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:336",
+          "text": "5 Dec",
+          "bounds": {
+            "x": 14602,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:337",
+          "text": "6 Dec",
+          "bounds": {
+            "x": 14658,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:338",
+          "text": "7 Dec",
+          "bounds": {
+            "x": 14714,
+            "y": 1028,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:509",
+          "text": "48 kWh",
+          "bounds": {
+            "x": 14554,
+            "y": 975,
+            "width": 24,
+            "height": 35
+          }
+        },
+        {
+          "id": "74:1255",
+          "text": "Today: Energy Usage 48,8 kWh",
+          "bounds": {
+            "x": 14377,
+            "y": 697,
+            "width": 179,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "44:345",
+      "name": "Choose Room",
+      "text": [
+        {
+          "id": "44:347",
+          "text": "Select Room",
+          "bounds": {
+            "x": 14968,
+            "y": 724,
+            "width": 149,
+            "height": 32
+          }
+        },
+        {
+          "id": "44:406",
+          "text": "Select or create your own custom room in an easy and simple way",
+          "bounds": {
+            "x": 14968,
+            "y": 764,
+            "width": 295,
+            "height": 44
+          }
+        },
+        {
+          "id": "I44:444;38:1191",
+          "text": "Cancel",
+          "bounds": {
+            "x": 15025.5,
+            "y": 1382,
+            "width": 48,
+            "height": 22
+          }
+        },
+        {
+          "id": "I44:443;38:1189",
+          "text": "Next",
+          "bounds": {
+            "x": 15212.5,
+            "y": 1382,
+            "width": 32,
+            "height": 22
+          }
+        },
+        {
+          "id": "44:460",
+          "text": "Living Room",
+          "bounds": {
+            "x": 15010,
+            "y": 930,
+            "width": 84,
+            "height": 22
+          }
+        },
+        {
+          "id": "44:426",
+          "text": "6 Devices",
+          "bounds": {
+            "x": 15024,
+            "y": 958,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "44:458",
+          "text": "Add another\nroom",
+          "bounds": {
+            "x": 15191,
+            "y": 1114,
+            "width": 72,
+            "height": 40
+          }
+        },
+        {
+          "id": "44:435",
+          "text": "Bedroom",
+          "bounds": {
+            "x": 15194,
+            "y": 930,
+            "width": 65,
+            "height": 22
+          }
+        },
+        {
+          "id": "44:436",
+          "text": "5 Devices",
+          "bounds": {
+            "x": 15198.5,
+            "y": 958,
+            "width": 56,
+            "height": 20
+          }
+        },
+        {
+          "id": "44:440",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 15025.5,
+            "y": 1110,
+            "width": 53,
+            "height": 22
+          }
+        },
+        {
+          "id": "44:441",
+          "text": "4 Devices",
+          "bounds": {
+            "x": 15024,
+            "y": 1138,
+            "width": 56,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "frame": "37:94",
+      "name": "Add Device (Search)",
+      "text": [
+        {
+          "id": "37:95",
+          "text": "Connecting Device",
+          "bounds": {
+            "x": 15617,
+            "y": 724,
+            "width": 224,
+            "height": 32
+          }
+        },
+        {
+          "id": "37:102",
+          "text": "Press power button 5 Seccond",
+          "bounds": {
+            "x": 15640.5,
+            "y": 765,
+            "width": 177,
+            "height": 22
+          }
+        },
+        {
+          "id": "38:571",
+          "text": "Turn on Wi-Fi for connect",
+          "bounds": {
+            "x": 15672,
+            "y": 820,
+            "width": 145,
+            "height": 22
+          }
+        },
+        {
+          "id": "38:677",
+          "text": "You need to start working Wi-Fi connection on your mobile devices.",
+          "bounds": {
+            "x": 15604,
+            "y": 1336,
+            "width": 251,
+            "height": 44
+          }
+        },
+        {
+          "id": "I38:1588;38:1187",
+          "text": "Learn More",
+          "bounds": {
+            "x": 15697.5,
+            "y": 1396,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "I38:1596;38:1193",
+          "text": "Connect",
+          "bounds": {
+            "x": 15700.5,
+            "y": 1245,
+            "width": 57,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "38:1605",
+      "name": "Device Found",
+      "text": [
+        {
+          "id": "38:1612",
+          "text": "Connecting Device",
+          "bounds": {
+            "x": 16207,
+            "y": 724,
+            "width": 224,
+            "height": 32
+          }
+        },
+        {
+          "id": "38:1613",
+          "text": "Device found...",
+          "bounds": {
+            "x": 16275.5,
+            "y": 765,
+            "width": 87,
+            "height": 22
+          }
+        },
+        {
+          "id": "38:1617",
+          "text": "Turn on Wi-Fi for connect",
+          "bounds": {
+            "x": 16261,
+            "y": 820,
+            "width": 147,
+            "height": 22
+          }
+        },
+        {
+          "id": "38:1665",
+          "text": "Samsung UA55 4AC",
+          "bounds": {
+            "x": 16272,
+            "y": 1124,
+            "width": 115,
+            "height": 20
+          }
+        },
+        {
+          "id": "38:1624",
+          "text": "You need to start working Wi-Fi connection on your mobile devices.",
+          "bounds": {
+            "x": 16194,
+            "y": 1336,
+            "width": 251,
+            "height": 44
+          }
+        },
+        {
+          "id": "I38:1625;38:1187",
+          "text": "Learn More",
+          "bounds": {
+            "x": 16287.5,
+            "y": 1396,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "I38:1626;38:1189",
+          "text": "Connect",
+          "bounds": {
+            "x": 16290.5,
+            "y": 1245,
+            "width": 57,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "75:1384",
+      "name": "Device Added",
+      "text": [
+        {
+          "id": "75:1391",
+          "text": "Connecting Device",
+          "bounds": {
+            "x": 16797,
+            "y": 724,
+            "width": 224,
+            "height": 32
+          }
+        },
+        {
+          "id": "75:1392",
+          "text": "Device found...",
+          "bounds": {
+            "x": 16865.5,
+            "y": 765,
+            "width": 87,
+            "height": 22
+          }
+        },
+        {
+          "id": "75:1396",
+          "text": "Turn on Wi-Fi for connect",
+          "bounds": {
+            "x": 16851,
+            "y": 820,
+            "width": 147,
+            "height": 22
+          }
+        },
+        {
+          "id": "75:1401",
+          "text": "Samsung UA55 4AC",
+          "bounds": {
+            "x": 16862,
+            "y": 1124,
+            "width": 115,
+            "height": 20
+          }
+        },
+        {
+          "id": "75:1403",
+          "text": "You need to start working Wi-Fi connection on your mobile devices.",
+          "bounds": {
+            "x": 16784,
+            "y": 1336,
+            "width": 251,
+            "height": 44
+          }
+        },
+        {
+          "id": "I75:1404;38:1187",
+          "text": "Learn More",
+          "bounds": {
+            "x": 16877.5,
+            "y": 1396,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "I75:1405;38:1189",
+          "text": "Connect",
+          "bounds": {
+            "x": 16880.5,
+            "y": 1245,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "id": "75:1429",
+          "text": "Device Added to\n“Living Room”",
+          "bounds": {
+            "x": 16827.5,
+            "y": 1274,
+            "width": 163,
+            "height": 64
+          }
+        },
+        {
+          "id": "I75:1432;38:1195",
+          "text": "View Device",
+          "bounds": {
+            "x": 16809.5,
+            "y": 1374,
+            "width": 83,
+            "height": 22
+          }
+        },
+        {
+          "id": "I75:1433;38:1189",
+          "text": "Done",
+          "bounds": {
+            "x": 16948.5,
+            "y": 1374,
+            "width": 37,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "52:989",
+      "name": "Notification (General)",
+      "text": [
+        {
+          "id": "52:1037",
+          "text": "Notification",
+          "bounds": {
+            "x": 17429,
+            "y": 664,
+            "width": 140,
+            "height": 32
+          }
+        },
+        {
+          "id": "53:823",
+          "text": "Today",
+          "bounds": {
+            "x": 17328,
+            "y": 798,
+            "width": 41,
+            "height": 22
+          }
+        },
+        {
+          "id": "52:1047",
+          "text": "2 Feb 2023 • 7:40 pm",
+          "bounds": {
+            "x": 17384,
+            "y": 844,
+            "width": 103,
+            "height": 14
+          }
+        },
+        {
+          "id": "52:1039",
+          "text": "Energy Usage Alert",
+          "bounds": {
+            "x": 17384,
+            "y": 862,
+            "width": 286,
+            "height": 22
+          }
+        },
+        {
+          "id": "52:1040",
+          "text": "Keep track of your energy consumption and receive alerts when you're close to hitting your monthly energy limit.",
+          "bounds": {
+            "x": 17384,
+            "y": 892,
+            "width": 286,
+            "height": 54
+          }
+        },
+        {
+          "id": "52:1094",
+          "text": "2 Feb 2023 • 5:42 pm",
+          "bounds": {
+            "x": 17384,
+            "y": 970,
+            "width": 102,
+            "height": 14
+          }
+        },
+        {
+          "id": "52:1095",
+          "text": "Smoke Detection Alert",
+          "bounds": {
+            "x": 17384,
+            "y": 988,
+            "width": 286,
+            "height": 22
+          }
+        },
+        {
+          "id": "52:1096",
+          "text": "Stay safe with alerts if smoke is detected in your home, giving you peace of mind and the ability to take action quickly.",
+          "bounds": {
+            "x": 17384,
+            "y": 1018,
+            "width": 286,
+            "height": 54
+          }
+        },
+        {
+          "id": "52:1079",
+          "text": "2 Feb 2022 • 1:40 pm",
+          "bounds": {
+            "x": 17384,
+            "y": 1096,
+            "width": 101,
+            "height": 14
+          }
+        },
+        {
+          "id": "52:1080",
+          "text": "Temperature Alert",
+          "bounds": {
+            "x": 17384,
+            "y": 1114,
+            "width": 286,
+            "height": 22
+          }
+        },
+        {
+          "id": "52:1081",
+          "text": "Stay informed about the temperature in your home and receive notifications if it goes above or below your desired range.",
+          "bounds": {
+            "x": 17384,
+            "y": 1144,
+            "width": 286,
+            "height": 54
+          }
+        },
+        {
+          "id": "53:824",
+          "text": "This Month",
+          "bounds": {
+            "x": 17328,
+            "y": 1222,
+            "width": 72,
+            "height": 22
+          }
+        },
+        {
+          "id": "52:1063",
+          "text": "2 Jan 2023 • 5:42 pm",
+          "bounds": {
+            "x": 17384,
+            "y": 1268,
+            "width": 99,
+            "height": 14
+          }
+        },
+        {
+          "id": "52:1064",
+          "text": "Invitation Request",
+          "bounds": {
+            "x": 17384,
+            "y": 1286,
+            "width": 286,
+            "height": 22
+          }
+        },
+        {
+          "id": "52:1065",
+          "text": "Get detailed information on energy consumption, usage patterns, and more.",
+          "bounds": {
+            "x": 17384,
+            "y": 1316,
+            "width": 286,
+            "height": 36
+          }
+        },
+        {
+          "id": "53:827",
+          "text": "General (5)",
+          "bounds": {
+            "x": 17352,
+            "y": 744,
+            "width": 65,
+            "height": 18
+          }
+        },
+        {
+          "id": "53:829",
+          "text": "Kitchen",
+          "bounds": {
+            "x": 17477,
+            "y": 744,
+            "width": 45,
+            "height": 18
+          }
+        }
+      ]
+    },
+    {
+      "frame": "53:832",
+      "name": "Notification (General)",
+      "text": [
+        {
+          "id": "53:887",
+          "text": "General",
+          "bounds": {
+            "x": 17942,
+            "y": 744,
+            "width": 47,
+            "height": 18
+          }
+        },
+        {
+          "id": "53:885",
+          "text": "Kitchen (2)",
+          "bounds": {
+            "x": 18049,
+            "y": 744,
+            "width": 63,
+            "height": 18
+          }
+        },
+        {
+          "id": "53:969",
+          "text": "This Month",
+          "bounds": {
+            "x": 17918,
+            "y": 798,
+            "width": 72,
+            "height": 22
+          }
+        },
+        {
+          "id": "53:958",
+          "text": "2 Feb 2023 • 5:42 pm",
+          "bounds": {
+            "x": 17974,
+            "y": 844,
+            "width": 102,
+            "height": 14
+          }
+        },
+        {
+          "id": "53:959",
+          "text": "Invitation Request",
+          "bounds": {
+            "x": 17974,
+            "y": 862,
+            "width": 286,
+            "height": 22
+          }
+        },
+        {
+          "id": "53:960",
+          "text": "Jakob Bergson inviting you to join our community of homeowners who are taking control of their homes with ease.",
+          "bounds": {
+            "x": 17974,
+            "y": 892,
+            "width": 286,
+            "height": 54
+          }
+        },
+        {
+          "id": "I66:1219;38:1183",
+          "text": "Decline",
+          "bounds": {
+            "x": 18113,
+            "y": 966,
+            "width": 44,
+            "height": 16
+          }
+        },
+        {
+          "id": "I66:1217;38:1181",
+          "text": "Accept",
+          "bounds": {
+            "x": 18201,
+            "y": 966,
+            "width": 43,
+            "height": 16
+          }
+        },
+        {
+          "id": "53:966",
+          "text": "1 Feb 2022 • 1:40 pm",
+          "bounds": {
+            "x": 17974,
+            "y": 1010,
+            "width": 99,
+            "height": 14
+          }
+        },
+        {
+          "id": "53:967",
+          "text": "Congratulations!",
+          "bounds": {
+            "x": 17974,
+            "y": 1028,
+            "width": 286,
+            "height": 22
+          }
+        },
+        {
+          "id": "53:968",
+          "text": "Your invitation to join Jakob Home has been accepted. Welcome to the smart home revolution!",
+          "bounds": {
+            "x": 17974,
+            "y": 1058,
+            "width": 286,
+            "height": 54
+          }
+        },
+        {
+          "id": "66:1193",
+          "text": "Notification",
+          "bounds": {
+            "x": 18019,
+            "y": 664,
+            "width": 140,
+            "height": 32
+          }
+        }
+      ]
+    },
+    {
+      "frame": "97:4054",
+      "name": "Chatbot",
+      "text": [
+        {
+          "id": "97:4086",
+          "text": "Hi! 👋 ...Jacob",
+          "bounds": {
+            "x": 12237,
+            "y": 2167,
+            "width": 79,
+            "height": 20
+          }
+        },
+        {
+          "id": "97:4057",
+          "text": "We Always There",
+          "bounds": {
+            "x": 12058.5,
+            "y": 2479,
+            "width": 262,
+            "height": 32
+          }
+        },
+        {
+          "id": "97:4056",
+          "text": "If you have any other questions or need further assistance, don't hesitate to ask.",
+          "bounds": {
+            "x": 12011,
+            "y": 2523,
+            "width": 357,
+            "height": 44
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:2232",
+      "name": "Chat",
+      "text": [
+        {
+          "id": "93:2275",
+          "text": "SemartBot",
+          "bounds": {
+            "x": 12736,
+            "y": 2100,
+            "width": 86,
+            "height": 24
+          }
+        },
+        {
+          "id": "93:2276",
+          "text": "Online",
+          "bounds": {
+            "x": 12766,
+            "y": 2128,
+            "width": 38,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:2295",
+          "text": "I need help connecting my smart home devices to the app.",
+          "bounds": {
+            "x": 12722,
+            "y": 2300,
+            "width": 208,
+            "height": 40
+          }
+        },
+        {
+          "id": "95:2299",
+          "text": "I have some smart lights",
+          "bounds": {
+            "x": 12776,
+            "y": 2484,
+            "width": 154,
+            "height": 20
+          }
+        },
+        {
+          "id": "93:2291",
+          "text": "Hi! 👋 ...I’m a Bot. Let me know if you have any question or request.",
+          "bounds": {
+            "x": 12672,
+            "y": 2208,
+            "width": 208,
+            "height": 40
+          }
+        },
+        {
+          "id": "94:2297",
+          "text": "Of course! I'd be happy to assist. What type of devices are you trying to connect?",
+          "bounds": {
+            "x": 12672,
+            "y": 2392,
+            "width": 242,
+            "height": 40
+          }
+        },
+        {
+          "id": "95:2301",
+          "text": "Great! First, make sure your devices are compatible with Smart Home App. Then, open the app and go to the device connection page. Follow the steps to connect each device to your home network.",
+          "bounds": {
+            "x": 12672,
+            "y": 2556,
+            "width": 237,
+            "height": 120
+          }
+        },
+        {
+          "id": "95:2370",
+          "text": "Ask anything...",
+          "bounds": {
+            "x": 12694,
+            "y": 2830,
+            "width": 83,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "frame": "95:2793",
+      "name": "Chat",
+      "text": [
+        {
+          "id": "95:2802",
+          "text": "SemartBot",
+          "bounds": {
+            "x": 13326,
+            "y": 2100,
+            "width": 86,
+            "height": 24
+          }
+        },
+        {
+          "id": "95:2805",
+          "text": "Online",
+          "bounds": {
+            "x": 13356,
+            "y": 2128,
+            "width": 38,
+            "height": 16
+          }
+        },
+        {
+          "id": "95:2810",
+          "text": "I need help connecting my smart home devices to the app.",
+          "bounds": {
+            "x": 13312,
+            "y": 2300,
+            "width": 208,
+            "height": 40
+          }
+        },
+        {
+          "id": "95:2812",
+          "text": "I have some smart lights",
+          "bounds": {
+            "x": 13366,
+            "y": 2484,
+            "width": 154,
+            "height": 20
+          }
+        },
+        {
+          "id": "95:2818",
+          "text": "Hi! 👋 ...I’m a Bot. Let me know if you have any question or request.",
+          "bounds": {
+            "x": 13262,
+            "y": 2208,
+            "width": 208,
+            "height": 40
+          }
+        },
+        {
+          "id": "95:2825",
+          "text": "Of course! I'd be happy to assist. What type of devices are you trying to connect?",
+          "bounds": {
+            "x": 13262,
+            "y": 2392,
+            "width": 242,
+            "height": 40
+          }
+        },
+        {
+          "id": "95:2832",
+          "text": "Great! First, make sure your devices are compatible with Smart Home App. Then, open the app and go to the device connection page. Follow the steps to connect each device to your home network.",
+          "bounds": {
+            "x": 13262,
+            "y": 2556,
+            "width": 237,
+            "height": 120
+          }
+        },
+        {
+          "id": "95:2839",
+          "text": "I've done that, but |",
+          "bounds": {
+            "x": 13284,
+            "y": 2830,
+            "width": 109,
+            "height": 20
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1258",
+      "name": "Profile",
+      "text": [
+        {
+          "id": "93:1259",
+          "text": "Jakob Home",
+          "bounds": {
+            "x": 12018,
+            "y": 3540,
+            "width": 144,
+            "height": 32
+          }
+        },
+        {
+          "id": "I93:1260;38:1191",
+          "text": "Switch Account",
+          "bounds": {
+            "x": 12136,
+            "y": 4236,
+            "width": 106,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1292",
+          "text": "General",
+          "bounds": {
+            "x": 12018,
+            "y": 3700,
+            "width": 54,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1302",
+          "text": "Settings",
+          "bounds": {
+            "x": 12078,
+            "y": 3759,
+            "width": 58,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1311",
+          "text": "Notification",
+          "bounds": {
+            "x": 12078,
+            "y": 3831,
+            "width": 81,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1324",
+          "text": "Members",
+          "bounds": {
+            "x": 12078,
+            "y": 3903,
+            "width": 65,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1326",
+          "text": "4",
+          "bounds": {
+            "x": 12149,
+            "y": 3906,
+            "width": 16,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1340",
+          "text": "Language",
+          "bounds": {
+            "x": 12078,
+            "y": 3975,
+            "width": 68,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1342",
+          "text": "Support",
+          "bounds": {
+            "x": 12018,
+            "y": 4034,
+            "width": 56,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1347",
+          "text": "Help Center",
+          "bounds": {
+            "x": 12078,
+            "y": 4093,
+            "width": 82,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1353",
+          "text": "About Us",
+          "bounds": {
+            "x": 12078,
+            "y": 4165,
+            "width": 63,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1360",
+          "text": "Jakob Bergson",
+          "bounds": {
+            "x": 12090,
+            "y": 3618,
+            "width": 101,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1361",
+          "text": "Owner",
+          "bounds": {
+            "x": 12090,
+            "y": 3643,
+            "width": 39,
+            "height": 16
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1363",
+      "name": "Switch Account",
+      "text": [
+        {
+          "id": "93:1364",
+          "text": "Jakob Home",
+          "bounds": {
+            "x": 12608,
+            "y": 3540,
+            "width": 144,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1396",
+          "text": "General",
+          "bounds": {
+            "x": 12608,
+            "y": 3700,
+            "width": 54,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1406",
+          "text": "Settings",
+          "bounds": {
+            "x": 12668,
+            "y": 3759,
+            "width": 58,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1415",
+          "text": "Notification",
+          "bounds": {
+            "x": 12668,
+            "y": 3831,
+            "width": 81,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1429",
+          "text": "Language",
+          "bounds": {
+            "x": 12668,
+            "y": 3903,
+            "width": 68,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1431",
+          "text": "Support",
+          "bounds": {
+            "x": 12608,
+            "y": 3962,
+            "width": 56,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1436",
+          "text": "Help Center",
+          "bounds": {
+            "x": 12668,
+            "y": 4021,
+            "width": 82,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1442",
+          "text": "About Us",
+          "bounds": {
+            "x": 12668,
+            "y": 4093,
+            "width": 63,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1449",
+          "text": "Jakob Bergson",
+          "bounds": {
+            "x": 12680,
+            "y": 3618,
+            "width": 101,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1450",
+          "text": "Owner",
+          "bounds": {
+            "x": 12680,
+            "y": 3643,
+            "width": 39,
+            "height": 16
+          }
+        },
+        {
+          "id": "I93:1452;38:1191",
+          "text": "Switch Account",
+          "bounds": {
+            "x": 12726,
+            "y": 4172,
+            "width": 106,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1464",
+          "text": "Switch Account",
+          "bounds": {
+            "x": 12688,
+            "y": 4062,
+            "width": 123,
+            "height": 24
+          }
+        },
+        {
+          "id": "93:1470",
+          "text": "Jakob Home",
+          "bounds": {
+            "x": 12688,
+            "y": 4120,
+            "width": 84,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1471",
+          "text": "16 Devices",
+          "bounds": {
+            "x": 12688,
+            "y": 4145,
+            "width": 60,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1478",
+          "text": "Kianna Home",
+          "bounds": {
+            "x": 12688,
+            "y": 4184,
+            "width": 90,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1479",
+          "text": "18 Devices",
+          "bounds": {
+            "x": 12688,
+            "y": 4209,
+            "width": 61,
+            "height": 16
+          }
+        },
+        {
+          "id": "I93:1481;38:1191",
+          "text": "Add Other House",
+          "bounds": {
+            "x": 12720.5,
+            "y": 4262,
+            "width": 117,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1482",
+      "name": "Edit Profile",
+      "text": [
+        {
+          "id": "93:1489",
+          "text": "Edit Profile",
+          "bounds": {
+            "x": 13270,
+            "y": 3552,
+            "width": 127,
+            "height": 32
+          }
+        },
+        {
+          "id": "I93:1490;48:2391",
+          "text": "Upload Cover",
+          "bounds": {
+            "x": 13324,
+            "y": 3662,
+            "width": 76,
+            "height": 18
+          }
+        },
+        {
+          "id": "93:1501",
+          "text": "Upload Profile Photo",
+          "bounds": {
+            "x": 13308.5,
+            "y": 3720,
+            "width": 121,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1502",
+          "text": "Upload Profile Photo PNG Max 10mb.",
+          "bounds": {
+            "x": 13307,
+            "y": 3740,
+            "width": 124,
+            "height": 28
+          }
+        },
+        {
+          "id": "I93:1504;41:1216;38:688",
+          "text": "Home Name",
+          "bounds": {
+            "x": 13198,
+            "y": 3810,
+            "width": 69,
+            "height": 18
+          }
+        },
+        {
+          "id": "I93:1504;41:1218;38:707",
+          "text": "Jakob Home",
+          "bounds": {
+            "x": 13214,
+            "y": 3850,
+            "width": 84,
+            "height": 24
+          }
+        },
+        {
+          "id": "I93:1505;41:1216;38:688",
+          "text": "Owner",
+          "bounds": {
+            "x": 13198,
+            "y": 3908,
+            "width": 37,
+            "height": 18
+          }
+        },
+        {
+          "id": "I93:1505;41:1218;38:707",
+          "text": "Jakob Bergson",
+          "bounds": {
+            "x": 13214,
+            "y": 3948,
+            "width": 100,
+            "height": 24
+          }
+        },
+        {
+          "id": "I93:1506;41:1216;38:688",
+          "text": "Email",
+          "bounds": {
+            "x": 13198,
+            "y": 4006,
+            "width": 30,
+            "height": 18
+          }
+        },
+        {
+          "id": "I93:1506;41:1218;38:707",
+          "text": "jakobbergson@gmail.com",
+          "bounds": {
+            "x": 13214,
+            "y": 4046,
+            "width": 181,
+            "height": 24
+          }
+        },
+        {
+          "id": "I93:1507;38:1189",
+          "text": "Update Profile",
+          "bounds": {
+            "x": 13313,
+            "y": 4270,
+            "width": 97,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1508",
+      "name": "Settings",
+      "text": [
+        {
+          "id": "93:1515",
+          "text": "Settings",
+          "bounds": {
+            "x": 13860,
+            "y": 3552,
+            "width": 100,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1518",
+          "text": "Allow Remote Acccess",
+          "bounds": {
+            "x": 13788,
+            "y": 3629,
+            "width": 155,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1521",
+          "text": "Allow Editing",
+          "bounds": {
+            "x": 13788,
+            "y": 3685,
+            "width": 89,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1524",
+          "text": "Allow Add Member",
+          "bounds": {
+            "x": 13788,
+            "y": 3741,
+            "width": 129,
+            "height": 22
+          }
+        },
+        {
+          "id": "I93:1526;38:1191",
+          "text": "Log Out",
+          "bounds": {
+            "x": 13931.5,
+            "y": 4270,
+            "width": 55,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1527",
+      "name": "Log Out",
+      "text": [
+        {
+          "id": "93:1534",
+          "text": "Settings",
+          "bounds": {
+            "x": 14450,
+            "y": 3552,
+            "width": 100,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1537",
+          "text": "Allow Remote Acccess",
+          "bounds": {
+            "x": 14378,
+            "y": 3629,
+            "width": 155,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1540",
+          "text": "Allow Editing",
+          "bounds": {
+            "x": 14378,
+            "y": 3685,
+            "width": 89,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1543",
+          "text": "Allow Add Member",
+          "bounds": {
+            "x": 14378,
+            "y": 3741,
+            "width": 129,
+            "height": 22
+          }
+        },
+        {
+          "id": "I93:1545;38:1191",
+          "text": "Log Out",
+          "bounds": {
+            "x": 14521.5,
+            "y": 4270,
+            "width": 55,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1550",
+          "text": "Log Out!",
+          "bounds": {
+            "x": 14506.5,
+            "y": 3897,
+            "width": 86,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1551",
+          "text": "Are you sure you want to log out of HomeIQ",
+          "bounds": {
+            "x": 14426,
+            "y": 3937,
+            "width": 247,
+            "height": 44
+          }
+        },
+        {
+          "id": "I93:1553;38:1195",
+          "text": "Cancel",
+          "bounds": {
+            "x": 14468,
+            "y": 4017,
+            "width": 48,
+            "height": 22
+          }
+        },
+        {
+          "id": "I93:1554;38:1189",
+          "text": "Log Out",
+          "bounds": {
+            "x": 14581,
+            "y": 4017,
+            "width": 55,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1555",
+      "name": "Notification",
+      "text": [
+        {
+          "id": "93:1562",
+          "text": "Notification",
+          "bounds": {
+            "x": 15040,
+            "y": 3552,
+            "width": 140,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1565",
+          "text": "Push Notification",
+          "bounds": {
+            "x": 14968,
+            "y": 3633,
+            "width": 116,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1568",
+          "text": "Temperature",
+          "bounds": {
+            "x": 14968,
+            "y": 3693,
+            "width": 88,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1571",
+          "text": "Sound",
+          "bounds": {
+            "x": 14968,
+            "y": 3749,
+            "width": 45,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1573",
+      "name": "Members",
+      "text": [
+        {
+          "id": "93:1580",
+          "text": "Members",
+          "bounds": {
+            "x": 15630,
+            "y": 3552,
+            "width": 112,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1587",
+          "text": "Jakob Bergson",
+          "bounds": {
+            "x": 15630,
+            "y": 3633,
+            "width": 101,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1588",
+          "text": "Owner",
+          "bounds": {
+            "x": 15630,
+            "y": 3660,
+            "width": 39,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1601",
+          "text": "Terry Saris",
+          "bounds": {
+            "x": 15630,
+            "y": 3713,
+            "width": 70,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1602",
+          "text": "Full Access",
+          "bounds": {
+            "x": 15630,
+            "y": 3740,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1615",
+          "text": "Jaxson Stanton",
+          "bounds": {
+            "x": 15630,
+            "y": 3793,
+            "width": 103,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1616",
+          "text": "Full Access",
+          "bounds": {
+            "x": 15630,
+            "y": 3820,
+            "width": 64,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1629",
+          "text": "Ryan Korsgaard",
+          "bounds": {
+            "x": 15630,
+            "y": 3873,
+            "width": 107,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1630",
+          "text": "4 room",
+          "bounds": {
+            "x": 15630,
+            "y": 3900,
+            "width": 41,
+            "height": 16
+          }
+        },
+        {
+          "id": "I93:1638;38:1191",
+          "text": "Add Memebers",
+          "bounds": {
+            "x": 15677,
+            "y": 4270,
+            "width": 104,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1639",
+      "name": "Language",
+      "text": [
+        {
+          "id": "93:1646",
+          "text": "Language",
+          "bounds": {
+            "x": 16220,
+            "y": 3552,
+            "width": 117,
+            "height": 32
+          }
+        },
+        {
+          "id": "I93:1647;41:1178;38:707",
+          "text": "Search...",
+          "bounds": {
+            "x": 16190,
+            "y": 3642,
+            "width": 61,
+            "height": 24
+          }
+        },
+        {
+          "id": "93:1649",
+          "text": "Suggestion",
+          "bounds": {
+            "x": 16148,
+            "y": 3706,
+            "width": 342,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1660",
+          "text": "English (US)",
+          "bounds": {
+            "x": 16180,
+            "y": 3761,
+            "width": 79,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1669",
+          "text": "Indonesia",
+          "bounds": {
+            "x": 16180,
+            "y": 3817,
+            "width": 67,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1671",
+          "text": "All Language",
+          "bounds": {
+            "x": 16148,
+            "y": 3872,
+            "width": 342,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1679",
+          "text": "Albanian",
+          "bounds": {
+            "x": 16180,
+            "y": 3927,
+            "width": 59,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1689",
+          "text": "Arabic",
+          "bounds": {
+            "x": 16180,
+            "y": 3983,
+            "width": 44,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1701",
+          "text": "Azerbaijani",
+          "bounds": {
+            "x": 16180,
+            "y": 4039,
+            "width": 74,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1720",
+          "text": "Belarusian",
+          "bounds": {
+            "x": 16180,
+            "y": 4095,
+            "width": 70,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1730",
+          "text": "Bosnian",
+          "bounds": {
+            "x": 16180,
+            "y": 4151,
+            "width": 55,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1740",
+          "text": "Bulgarian",
+          "bounds": {
+            "x": 16180,
+            "y": 4207,
+            "width": 64,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1780",
+          "text": "Brazil",
+          "bounds": {
+            "x": 16180,
+            "y": 4263,
+            "width": 37,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1782",
+      "name": "Help Center",
+      "text": [
+        {
+          "id": "93:1789",
+          "text": "Help Center",
+          "bounds": {
+            "x": 16810,
+            "y": 3552,
+            "width": 141,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1794",
+          "text": "Email Support",
+          "bounds": {
+            "x": 16789.25,
+            "y": 3831,
+            "width": 95,
+            "height": 20
+          }
+        },
+        {
+          "id": "93:1798",
+          "text": "Live Chat",
+          "bounds": {
+            "x": 16981.75,
+            "y": 3831,
+            "width": 63,
+            "height": 20
+          }
+        },
+        {
+          "id": "93:1802",
+          "text": "How can we help?",
+          "bounds": {
+            "x": 16822.5,
+            "y": 3632,
+            "width": 173,
+            "height": 28
+          }
+        },
+        {
+          "id": "93:1803",
+          "text": "A fully functional search system",
+          "bounds": {
+            "x": 16804.5,
+            "y": 3664,
+            "width": 209,
+            "height": 20
+          }
+        },
+        {
+          "id": "I93:1804;48:676",
+          "text": "Search...",
+          "bounds": {
+            "x": 16813.5,
+            "y": 3721,
+            "width": 57,
+            "height": 22
+          }
+        },
+        {
+          "id": "93:1807",
+          "text": "Frequent Question",
+          "bounds": {
+            "x": 16738,
+            "y": 3901,
+            "width": 166,
+            "height": 26
+          }
+        },
+        {
+          "id": "93:1808",
+          "text": "Help you out identifying what you need faster.",
+          "bounds": {
+            "x": 16738,
+            "y": 3935,
+            "width": 261,
+            "height": 16
+          }
+        },
+        {
+          "id": "93:1812",
+          "text": "1. What is the smarthome app and what does it do?",
+          "bounds": {
+            "x": 16754,
+            "y": 3991,
+            "width": 280,
+            "height": 44
+          }
+        },
+        {
+          "id": "93:1813",
+          "text": "The smarthome app is a software application that allows you to control and manage your smart home devices from a single platform. With the app, you can monitor and control things like lights, thermost…(+51)",
+          "bounds": {
+            "x": 16754,
+            "y": 4043,
+            "width": 280,
+            "height": 108
+          }
+        },
+        {
+          "id": "93:1816",
+          "text": "2. Is the app compatible with all smart home devices?",
+          "bounds": {
+            "x": 16754,
+            "y": 4199,
+            "width": 274,
+            "height": 44
+          }
+        },
+        {
+          "id": "93:1819",
+          "text": "3. How do I set up and install the app?",
+          "bounds": {
+            "x": 16750,
+            "y": 4287,
+            "width": 253,
+            "height": 22
+          }
+        }
+      ]
+    },
+    {
+      "frame": "93:1827",
+      "name": "About Us",
+      "text": [
+        {
+          "id": "93:1834",
+          "text": "About Us",
+          "bounds": {
+            "x": 17400,
+            "y": 3552,
+            "width": 106,
+            "height": 32
+          }
+        },
+        {
+          "id": "93:1838",
+          "text": "Product Name",
+          "bounds": {
+            "x": 17436,
+            "y": 3716,
+            "width": 127,
+            "height": 26
+          }
+        },
+        {
+          "id": "93:1839",
+          "text": "Version 1.0.0",
+          "bounds": {
+            "x": 17461.5,
+            "y": 3746,
+            "width": 76,
+            "height": 18
+          }
+        },
+        {
+          "id": "93:1841",
+          "text": "What we offer",
+          "bounds": {
+            "x": 17328,
+            "y": 3796,
+            "width": 125,
+            "height": 26
+          }
+        },
+        {
+          "id": "93:1842",
+          "text": "Welcome to our Smarthome App, where technology and comfort meet to revolutionize the way you live. Our app is designed to bring convenience and simplicity to your daily routine, making your home a sma…(+659)",
+          "bounds": {
+            "x": 17328,
+            "y": 3830,
+            "width": 327,
+            "height": 484
+          }
+        }
+      ]
+    }
+  ]
+}
